@@ -24,6 +24,10 @@ body {
     .card {
         padding: 40px 10px;
     }
+
+    .search button {
+        margin-right: 10px;
+    }
 }
 
 .search {
