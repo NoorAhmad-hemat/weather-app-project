@@ -20,6 +20,12 @@ body {
     text-align: center;
 }
 
+@media screen and (max-width: 459px) {
+    .card {
+        padding: 40px 10px;
+    }
+}
+
 .search {
     width: 100%;
     display: flex;
